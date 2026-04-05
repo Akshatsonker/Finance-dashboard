@@ -113,7 +113,7 @@ npm start
 Server will run on:
 
 ```
-http://localhost:3000
+http://localhost:3001
 ```
 
 ---
